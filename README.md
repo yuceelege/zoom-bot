@@ -9,7 +9,7 @@ I built a zoom bot that will automatically log in and log out according the give
 -webbrowser
 
 ## INFO
-In order to start the program **app.py** must be initialized.
+In order to start the program, **app.py** must be initialized.
 
 ## Method
 -The program starts by displaying a window that offers two operations: Change Schedule / Start the Bot <br/>
