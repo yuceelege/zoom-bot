@@ -16,7 +16,7 @@ In order to start the program, **app.py** must be initialized.
 -If first one is chosen, first window will close and another will open, asking for the lessons in schedule and required information. <br/>
 -Once you wrote the required information and access information (choose and write only one type of access info), click add to put more lessons. <br/>
 -Once you finish adding your weekly lessons, click 'Complete' and the program will return to first window. <br/>
--You can then start the bot.
+-You can then start the bot.  <br/>
 -If microphone and camera are opened, the bot will mute itself and close the camera to eliminate any unwanted scenario.
 
 ## WARNING
