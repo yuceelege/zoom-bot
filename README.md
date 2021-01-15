@@ -8,7 +8,7 @@ I built a zoom bot that will automatically log in and log out according the give
 -Numpy <br/>
 -webbrowser
 
-## WARNING
+## INFO
 In order to start the program **app.py** must be initialized.
 
 ## Method
