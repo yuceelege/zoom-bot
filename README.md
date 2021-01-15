@@ -30,6 +30,9 @@ but if you speak loudly, microphone will become green and that might cause probl
 In the **tools.py** file line 53, you see that the fullscreen method is a little bit primitive. You may need to change the value 170 according to your screen
 resolution; however, I am working on that and will fix soon. Also this is still the BETA version; therefore, I hope for your tolerance. <br/>
 
+## WARNING
+Don't delete the Zoom.lnk file, shortcut of the Zoom.exe is necessary for the program.
+
 Other than that, Enjoy :)
 
 
