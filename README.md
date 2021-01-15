@@ -6,6 +6,7 @@ I built a zoom bot that will automatically log in and log out according the give
 -Pyautogui <br/>
 -Pandas <br/>
 -Numpy <br/>
+-Subprocess <br/>
 -webbrowser
 
 ## INFO
