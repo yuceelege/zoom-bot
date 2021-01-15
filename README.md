@@ -27,7 +27,7 @@ Don't speak loudly while the bot enters the room because it uses image recoginti
 but if you speak loudly, microphone will become green and that might cause problems.
 
 ## WARNING
-In the **tools.py** file line 53, you see that the fullscreen method is a little bit primitive. You may need to change the value 170 according to your screen <br/>
+In the **tools.py** file line 53, you see that the fullscreen method is a little bit primitive. You may need to change the value 170 according to your screen
 resolution; however, I am working on that and will fix soon. Also this is still the BETA version; therefore, I hope for your tolerance. <br/>
 
 Other than that, Enjoy :)
