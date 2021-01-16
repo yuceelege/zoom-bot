@@ -32,7 +32,7 @@ In the **tools.py** file line 122, you see that the fullscreen method is a littl
 resolution; however, I am working on that and will fix soon. Also this is still the BETA version; therefore, I hope for your tolerance. <br/>
 
 ## WARNING
-Don't delete the Zoom.lnk file, shortcut of the Zoom.exe is necessary for the program.
+Don't delete the Zoom.lnk file because shortcut of the Zoom.exe is necessary for the program.
 
 Other than that, Enjoy :)
 
