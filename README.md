@@ -34,7 +34,7 @@ resolution; however, I am working on that and will fix soon. Also this is still 
 ## WARNING
 Don't delete the Zoom.lnk file because shortcut of the Zoom.exe is necessary for the program.
 
-Other than that, Enjoy :)
+**Other than that, Enjoy :)**
 
 
 
